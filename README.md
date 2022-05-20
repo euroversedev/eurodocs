@@ -1,5 +1,7 @@
 # eurodocs
+https://euroversedev.github.io/eurodocs/intro.html
 
+124124123123
 To Do
 1. 코랩 연동 제대로 하기
 2. 주피터북 스킨(테마) 변경하기
